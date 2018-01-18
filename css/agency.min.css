@@ -852,11 +852,6 @@ img {
 
 }
 
-@media screen and (max-width: 370px) and (min-width: 320px) {
-
-}
-
-
 @media screen and (max-width: 420px) and (min-width: 375px) {
   #concrete-jungle, #alternative {
   width: 100vw;
@@ -959,7 +954,7 @@ img {
 
 @media screen and (max-width:768px) and (min-width:730px) {
   .lead-in {
-    margin-top: -110%;
+    margin-top: -150%;
     text-align: center;
     font-size: 45px;
   }
