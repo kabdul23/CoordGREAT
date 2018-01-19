@@ -779,6 +779,7 @@ img {
   width: 100%;
   margin: 0 auto;
 }
+
 .lead-in {
    position: relative;
    color: #2fcb3c;
@@ -965,7 +966,6 @@ img {
 
 @media screen and (max-width:1024px) and (min-width:768px) {
   .lead-in {
-    margin-top: -180%;
     text-align: center;
     font-size: 45px;
   }
