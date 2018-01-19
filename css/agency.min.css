@@ -966,7 +966,8 @@ img {
 
 @media screen and (max-width:1024px) and (min-width:768px) {
   .lead-in {
-    text-align: center;
+    margin-top: -95%;
+    text-align: left;
     font-size: 45px;
   }
  #welcome {
