@@ -855,19 +855,13 @@ img {
 
 @media screen and (max-width: 420px) and (min-width: 375px) {
   #concrete-jungle, #alternative {
-  width: 100vw;
-    /* Could also use width: 100%; */
+    background-color: #333; 
+    width: 100vw;
     height: 100vw;
-    object-fit: cover;
-    position: absolute;
-    /* Change position to absolute if you don't want it to take up the whole page */
-    left: 0px;
-    top: 0px;
-    z-index: -1;   
 }
 
   .lead-in {
-    margin-top: -250%;
+    margin-top: -270%;
     text-align: center;
     font-size: 45px;
   }
