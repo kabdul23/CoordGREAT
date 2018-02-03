@@ -746,6 +746,7 @@ body {
 
 img {
     margin-top: -85px;
+    position: fixed;
 }
 
 .container { position:relative; }
