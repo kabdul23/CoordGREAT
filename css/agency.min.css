@@ -1041,7 +1041,7 @@ hr {
   height: auto;
 }
 @media screen and (max-width: 1024px) {
-  #services {
+  #service {
   width: 100%;
   height: auto;
   margin-top: -12%; 
@@ -1082,7 +1082,7 @@ hr {
    filter:none !important;
 }
 }
-#services {
+#service {
   width: 100%;
   height: auto;
   margin-top: -12%; 
