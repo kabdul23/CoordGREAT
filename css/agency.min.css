@@ -1059,9 +1059,11 @@ hr {
 
 #help {
 display: inline-block;
-padding: 20%;
 }
 
+#skills {
+  padding: 15%;
+}
 
 
 /*****CLIENTS******/
