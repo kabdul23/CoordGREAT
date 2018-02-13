@@ -1029,24 +1029,25 @@ hr {
 
 }
 
-
-
-
-
-
-
 /*******SERVICES**********/
-#services {
+ #services {
   width: 100%;
-  height: auto;
-}
-@media screen and (max-width: 1024px) {
-  #services {
-  width: 100%;
-  height: auto;
-  margin-top: -12%; 
+  height: 100%;
   background-color: #545454;
+  margin: 0 auto;
 }
+.section-heading {
+  padding-top: 5%;
+}
+.item-active {
+  padding-top: 3%;
+  height: 100%;
+}
+
+.img-responsive {
+  margin: 0 auto;
+}
+
 
 #services h2 {
   color: #fff;
@@ -1056,79 +1057,8 @@ hr {
   color: #fff;
 }
 
-.features {
-  background-color: #545454;
-  margin-top:-3%;
-}
 
-.carousel-inner {
-  margin-top:-3%;
-}
 
-.img-responsive {
-  display: block;
-  max-width: 100%;
-  height: auto;
-
-}
-
-.carousel-inner img {
-  vertical-align: middle;
-  margin: 0 auto;
-}
-
-.carousel-control.left, .carousel-control.right {
-   background-image:none !important;
-   filter:none !important;
-}
-}
-#services {
-  width: 100%;
-  height: auto;
-  margin-top: -12%; 
-  background-color: #545454;
-}
-
-#services h2 {
-  color: #fff;
-}
-
-#services h3 {
-  color: #fff;
-}
-
-.features {
-  background-color: #545454;
-  margin-top:-3%;
-}
-
-.carousel-inner {
-  margin-top:-3%;
-}
-
-.img-responsive {
-  display: block;
-  max-width: 100%;
-  height: auto;
-
-}
-
-.carousel-inner img {
-  vertical-align: middle;
-  margin: 0 auto;
-}
-
-.carousel-control.left, .carousel-control.right {
-   background-image:none !important;
-   filter:none !important;
-}
-
-.control .glyphicon {
-  background-color: grey;
-  color: #fff;
-  margin-top: 15%;
-
-}
 
 /*****CLIENTS******/
 #clients {
