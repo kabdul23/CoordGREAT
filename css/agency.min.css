@@ -1032,7 +1032,7 @@ hr {
 /*******SERVICES**********/
  #services {
   width: 100%;
-  height: 100vh;
+  height: auto;
   background-color: #545454;
   margin: 0 auto;
 }
