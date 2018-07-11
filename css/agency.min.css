@@ -795,6 +795,10 @@ img {
    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+.header-container {
+    background-color: #545454;
+}
+
 .header-container .btn {
     background-color: black;
     padding: 16px 30px;
